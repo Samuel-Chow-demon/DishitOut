@@ -113,7 +113,7 @@ Example images
 </div>
 
 <div style="border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
-  <a href="https://www.figma.com/proto/fegnsXwNAZFwTAnxbBGhV8/DishitOut-App?node-id=545-2629&p=f&t=5hd61FrwdkbEo7dQ-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A35&starting-point-node-id=545%3A2629&show-proto-sidebar=1" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.figma.com/proto/fegnsXwNAZFwTAnxbBGhV8/DishitOut-App?node-id=1249-5821&p=f&t=QnyZtFIhl3VkUeJz-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A35&starting-point-node-id=1249%3A5821&show-proto-sidebar=1" target="_blank" rel="noopener noreferrer">
     🔗 <strong>Deployed Prototype Here</strong>
   </a>
 </div>
